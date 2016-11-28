@@ -1,4 +1,4 @@
-'use strict';
+
 
 describe('Articles E2E Tests:', function () {
   describe('Test articles page', function () {

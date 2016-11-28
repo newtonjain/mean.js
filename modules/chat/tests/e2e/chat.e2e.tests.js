@@ -1,4 +1,4 @@
-'use strict';
+
 
 /**
  * Chat e2e tests

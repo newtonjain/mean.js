@@ -20,7 +20,7 @@
 /*global window, atob, Blob, ArrayBuffer, Uint8Array */
 
 (function (window) {
-    'use strict';
+    
     var CanvasPrototype = window.HTMLCanvasElement &&
             window.HTMLCanvasElement.prototype,
         hasBlobConstructor = window.Blob && (function () {
@@ -96,7 +96,7 @@
 /*global window, URL, webkitURL, ActiveXObject */
 
 (function (window, undef){
-	'use strict';
+	
 
 	var
 		gid = 1,
@@ -1805,7 +1805,7 @@
 /*global window, FileAPI, document */
 
 (function (api, document, undef) {
-	'use strict';
+	
 
 	var
 		min = Math.min,
@@ -2309,10 +2309,10 @@
 /*global FileAPI, window, document */
 
 (function (factory) {
-	'use strict';
+	
 	factory(FileAPI);
 }(function (loadImage) {
-    'use strict';
+    
 
     // Only apply fixes on the iOS platform:
     if (!window.navigator || !window.navigator.platform ||

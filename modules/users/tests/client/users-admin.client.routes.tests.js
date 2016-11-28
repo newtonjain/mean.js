@@ -1,5 +1,5 @@
 ﻿(function () {
-  'use strict';
+  
 
   describe('Users Admin Route Tests', function () {
     // Initialize global variables

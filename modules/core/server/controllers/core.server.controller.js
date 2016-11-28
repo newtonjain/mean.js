@@ -1,4 +1,4 @@
-'use strict';
+
 
 var validator = require('validator'),
   path = require('path'),

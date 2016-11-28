@@ -1,5 +1,5 @@
 ﻿(function () {
-  'use strict';
+  
 
   describe('Chat Route Tests', function () {
     // Initialize global variables

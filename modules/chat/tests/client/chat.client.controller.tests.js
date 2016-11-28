@@ -2,7 +2,7 @@
  * Chat client controller tests
  */
 (function () {
-  'use strict';
+  
 
   describe('ChatController', function () {
     // Initialize global variables

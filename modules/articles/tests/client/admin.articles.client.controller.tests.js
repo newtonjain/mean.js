@@ -1,5 +1,5 @@
 ﻿(function () {
-  'use strict';
+  
 
   describe('Articles Admin Controller Tests', function () {
     // Initialize global variables

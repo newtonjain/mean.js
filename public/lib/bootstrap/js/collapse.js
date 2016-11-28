@@ -9,7 +9,7 @@
 /* jshint latedef: false */
 
 +function ($) {
-  'use strict';
+  
 
   // COLLAPSE PUBLIC CLASS DEFINITION
   // ================================

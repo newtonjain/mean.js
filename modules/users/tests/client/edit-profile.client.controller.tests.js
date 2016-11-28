@@ -1,5 +1,5 @@
 ﻿(function () {
-  'use strict';
+  
 
   describe('Edit Profile Controller Tests', function () {
     // Initialize global variables

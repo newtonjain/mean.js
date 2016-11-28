@@ -1,4 +1,4 @@
-'use strict';
+
 var glimpse = require('@glimpse/glimpse-node');
 glimpse.init();
 

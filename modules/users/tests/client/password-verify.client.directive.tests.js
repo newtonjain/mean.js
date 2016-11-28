@@ -1,4 +1,4 @@
-'use strict';
+
 
 (function() {
   // Password Verify Directive Spec

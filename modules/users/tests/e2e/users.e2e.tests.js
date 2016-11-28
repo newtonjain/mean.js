@@ -1,4 +1,4 @@
-'use strict';
+
 
 describe('Users E2E Tests:', function () {
   var user1 = {

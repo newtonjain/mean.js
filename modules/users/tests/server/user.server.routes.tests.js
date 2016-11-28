@@ -1,4 +1,4 @@
-'use strict';
+
 
 var semver = require('semver'),
   should = require('should'),
